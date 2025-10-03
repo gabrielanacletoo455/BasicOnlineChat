@@ -1,6 +1,13 @@
 # 💬 Chat React Native
 
 Um aplicativo de chat em tempo real desenvolvido com **React Native** e **WebSocket** para fins de estudo e aprendizado.
+## 📱 Screenshots
+
+<div align="center">
+  <img src="./screen.jpeg" alt="Chat Interface" width="300"/>
+  <p><em>Interface principal do chat</em></p>
+</div>
+
 
 ## 📱 Sobre o Projeto
 
@@ -142,7 +149,10 @@ const socket = new WebSocket('ws://SEU_IP:8080');
 
 ## 📱 Screenshots
 
-*Adicione screenshots do aplicativo aqui*
+### Interface do Chat
+![Chat Interface](./screen.jpeg)
+
+*Interface do aplicativo de chat mostrando mensagens em tempo real entre usuários mobile e web.*
 
 ## 🧪 Testes
 
@@ -164,15 +174,7 @@ Este projeto foi desenvolvido com foco no aprendizado de:
 - **State management patterns**
 - **Mobile UI/UX design**
 
-## 🤝 Contribuição
 
-Este é um projeto de estudo, mas contribuições são bem-vindas! Para contribuir:
-
-1. Fork o projeto
-2. Crie uma branch para sua feature (`git checkout -b feature/AmazingFeature`)
-3. Commit suas mudanças (`git commit -m 'Add some AmazingFeature'`)
-4. Push para a branch (`git push origin feature/AmazingFeature`)
-5. Abra um Pull Request
 
 ## 📝 Licença
 
@@ -180,31 +182,17 @@ Este projeto é de código aberto e está disponível sob a licença MIT. Veja o
 
 ## 👨‍💻 Autor
 
-**Gabriel** - Desenvolvedor em aprendizado
+**Gabriel** - Desenvolvedor Frontend Junior
 
-- GitHub: [@seu-usuario](https://github.com/seu-usuario)
-- LinkedIn: [seu-linkedin](https://linkedin.com/in/seu-linkedin)
-
-## 🙏 Agradecimentos
-
-- React Native Community
-- TypeScript Team
-- WebSocket API documentation
-- Stack Overflow community
+- 📧 Email: [gabrielanacleto159@gmail.com]
+- 💼 LinkedIn: [https://www.linkedin.com/in/gabriel-anacletoo]
+- 🐙 GitHub: [https://github.com/gabrielanacletoo455]
 
 ---
 
-⭐ **Se este projeto te ajudou, considere dar uma estrela!**
+## 📄 Licença
 
-## 🔮 Próximos Passos
-
-- [ ] Implementar notificações push
-- [ ] Adicionar emojis e stickers
-- [ ] Sistema de salas/chat privado
-- [ ] Upload de imagens
-- [ ] Modo offline com sincronização
-- [ ] Testes unitários e de integração
-- [ ] CI/CD pipeline
+Este projeto é para fins de estudo e aprendizado. Sinta-se livre para usar como referência para seus próprios projetos!
 
 ---
 
